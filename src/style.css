@@ -1,1 +1,40 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+/* body {
+  font-size: 80px;
+} */
+
+.color {
+  color: black;
+}
+#element1 {
+  text-align: left;
+  font-size: 100px;
+}
+#element2 {
+  text-align: center;
+  font-size: 140px;
+}
+#element3 {
+  text-align: right;
+  font-size: 100px;
+}
+#widthCard {
+  width: 350px;
+}
+.card {
+  border-radius: 20px;
+  height: 460px;
+}
+#element1b {
+  text-align: left;
+  font-size: 100px;
+}
+#element2b {
+  text-align: center;
+  font-size: 140px;
+}
+#element3b {
+  text-align: right;
+  font-size: 100px;
+}
